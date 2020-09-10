@@ -1,0 +1,72 @@
+
+	Sequencial Allocation
+------------------------------------------
+Enter the number of blocks: 10
+Request's Starting Address: 
+1	Allocated
+2	Not allocated
+7	Allocated
+9	Not allocated
+
+Blocks	Status		Contents
+------------------------------------------
+1	Occupied	  a
+------------------------------------------
+2	Occupied	  b
+------------------------------------------
+3	Occupied	  c
+------------------------------------------
+4	Free	   
+------------------------------------------
+5	Free	   
+------------------------------------------
+6	Free	   
+------------------------------------------
+7	Occupied	  y
+------------------------------------------
+8	Occupied	  z
+------------------------------------------
+9	Free	   
+------------------------------------------
+10	Free	   
+------------------------------------------
+
+	Linked Allocation
+------------------------------------------
+Enter the number of blocks: 10
+Current Process	Start	End	Status
+1	1	2	Alloted
+2	7	7	Alloted
+3	3	4	Alloted
+4	6	0	Not Alloted
+
+Contents of process
+P1
+	1	a
+	5	b
+	2	c
+------------------------------------------
+P2
+	7	x
+------------------------------------------
+P3
+	3	y
+	4	z
+------------------------------------------
+P4
+------------------------------------------
+
+	Indexed Allocation------------------------------------------
+Enter the number of blocks: 10Process		Index		Blocks		Status
+------------------------------------------
+P1		7	1,2,3,		Alloted
+P2		8	4,		Alloted
+P3		3			Not Alloted
+P4		4			Not Alloted
+
+Allocation
+Index	Block	Contents
+7	1	a
+7	2	b
+7	3	c
+8	4	x
