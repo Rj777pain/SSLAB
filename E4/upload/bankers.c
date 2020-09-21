@@ -20,7 +20,7 @@ int bankAlg(int k,int max[m][n],int all[m][n]){//Bankers algorithm
         mc+=all[2][j];
     }
    // printf("%d %d %d\n",ma,mb,mc);
-    printf("\tNeed\nA\tB\tC");
+    printf("\tNeed\nA\tB\tC\t%d",k);
     fprintf(fout,"\tNeed\nA\tB\tC");
     for (int j = 1; j <= k; j++){
         printf("\n");
@@ -47,7 +47,7 @@ int bankAlg(int k,int max[m][n],int all[m][n]){//Bankers algorithm
            p[j]=i-1;j++;
            fl=0;
        }
-       if(j==5){fl=0;break;}
+       if(j==k){fl=0;break;}
         i++;
         if(i==6){
             if(fl){ break;}

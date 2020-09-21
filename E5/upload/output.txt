@@ -1,0 +1,17 @@
+------------------------------------------
+Input
+Current head position :53
+Sectors numbered from : 0 to 199
+Requests are:	98	183	41	122	14	124	65	67
+------------------------------------------
+Output
+FCFS:
+Total head movement:632
+
+SCAN:
+Total head movement:331
+
+C-SCAN:
+Total head movement:386
+
+------------------------------------------

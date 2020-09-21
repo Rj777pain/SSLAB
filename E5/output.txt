@@ -1,0 +1,10 @@
+------------------------------------------
+Input
+Current head position :53
+Sectors numbered from : 0 to 199
+Requests are:	98	183	41	122	14	124	65	67
+------------------------------------------
+Output
+Total head movement:386
+
+------------------------------------------

@@ -56,7 +56,8 @@ P3
 P4
 ------------------------------------------
 
-	Indexed Allocation------------------------------------------
+	Indexed Allocation
+------------------------------------------
 Enter the number of blocks: 10Process		Index		Blocks		Status
 ------------------------------------------
 P1		7	1,2,3,		Alloted
