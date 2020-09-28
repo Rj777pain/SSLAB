@@ -1,0 +1,20 @@
+------Output------
+
+Producer produced 3 items
+
+Buffer space: 3
+Producer produced 7 items
+
+Buffer space: 10
+Consumer consumed 4 items
+
+Buffer space: 6
+Producer produced 9 items
+
+Buffer space: 15
+Consumer consumed 3 items
+
+Buffer space: 12
+Consumer consumed 8 items
+
+Buffer space: 4
