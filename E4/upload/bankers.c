@@ -103,7 +103,7 @@ void main(){
     int max[m][n],all[m][n];
     int k=0,a,b,c,ma=0,mb=0,mc=0,i;
     if ((fout = fopen("output.txt", "w")) == NULL) {
-        printf("Error! opening file");
+        printf("There is an error in opening file");
         exit(1);
     }
     if ((fptr = fopen("input.txt", "r")) == NULL) {
