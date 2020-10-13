@@ -1,20 +1,22 @@
-------Output------
+Producer produced succesfully
+Buffer Filled : 3
 
-Producer produced 3 items
-Buffer space: 3
+Consumer cannot consume
 
-Producer produced 7 items
-Buffer space: 10
+Consumer cannot consume
 
-Consumer consumed 4 items
-Buffer space: 6
+Producer produced succesfully
+Buffer Filled : 10
 
-Producer produced 9 items
-Buffer space: 15
+Consumer consumed succesfully
+Buffer Filled : 6
 
-Consumer consumed 3 items
-Buffer space: 12
+Consumer consumed succesfully
+Buffer Filled : 3
 
-Consumer consumed 8 items
-Buffer space: 4
+Producer produced succesfully
+Buffer Filled : 12
+
+Consumer consumed succesfully
+Buffer Filled : 4
 
