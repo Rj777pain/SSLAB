@@ -1,22 +1,22 @@
 
 Philosoper 1 is Waiting to Eat
 Philosoper 2 is Waiting to Eat
-Philosoper 3 is Waiting to Eat
-Philosopher 1 is Eating
-Philosopher 3 is Eating
-Philosoper 7 is Waiting to Eat
 Philosoper 5 is Waiting to Eat
+Philosoper 7 is Waiting to Eat
+Philosoper 3 is Waiting to Eat
 Philosoper 4 is Waiting to Eat
+Philosopher 1 is Eating
 Philosopher 1 Finished Eating
 Philosoper 6 is Waiting to Eat
 Philosopher 7 is Eating
-Philosopher 3 Finished Eating
-Philosopher 7 Finished Eating
 Philosopher 5 is Eating
-Philosopher 5 Finished Eating
-Philosopher 4 is Eating
-Philosopher 6 is Eating
-Philosopher 4 Finished Eating
-Philosopher 6 Finished Eating
+Philosopher 7 Finished Eating
 Philosopher 2 is Eating
 Philosopher 2 Finished Eating
+Philosopher 5 Finished Eating
+Philosopher 3 is Eating
+Philosopher 6 is Eating
+Philosopher 4 is Eating
+Philosopher 6 Finished Eating
+Philosopher 3 Finished Eating
+Philosopher 4 Finished Eating

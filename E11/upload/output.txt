@@ -1,0 +1,4 @@
+
+Enter the label: abcThe label abc is present at index 1
+Enter the label: hi
+Symbol not present
